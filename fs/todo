@@ -1,0 +1,6 @@
+- Adapt iget to store inode NAME into minode structure (for pwd, change_dir)
+    + Fix the endless recursion and the segfault it creates with ls
+- Write link
+- Write symlink
+- Write unlink
+- Begin level II for things not dependent on open (Jared's doing open)

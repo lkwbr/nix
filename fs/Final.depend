@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1460647041 source:/home/luke/Classes/CptS 360/Final/alloc_dealloc.c
+	"project.h"
+
+1460653050 "
+
+1460652665 /home/luke/Classes/CptS 360/Final/project.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<libgen.h>
+	<string.h>
+	<sys/stat.h>
+	"ext2_fs.h"
+
+1460646585 /home/luke/Classes/CptS 360/Final/ext2_fs.h
+	<linux/types.h>
+	<linux/magic.h>
+	<linux/fs.h>
+
+1460646585 h>
+
+1460647167 source:/home/luke/Classes/CptS 360/Final/level1.c
+	"project.h"
+
+1460646634 source:/home/luke/Classes/CptS 360/Final/level2.c
+	"project.h"
+
+1460646640 source:/home/luke/Classes/CptS 360/Final/level3.c
+	"project.h"
+
+1460653050 source:/home/luke/Classes/CptS 360/Final/main.c
+	"project.h"
+
+1461372433 source:/home/luke/Classes/CptS 360/Final/level1/cd.c
+	"../project.h"
+
+1461511877 /home/luke/Classes/CptS 360/Final/project.h
+	"util/types.h"
+	"util/util.h"
+	"level1/level1.h"
+
+1460938686 /home/luke/Classes/CptS 360/Final/util/ext2_fs.h
+	<linux/types.h>
+	<linux/magic.h>
+	<linux/fs.h>
+
+1461370378 /home/luke/Classes/CptS 360/Final/util/types.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<libgen.h>
+	<string.h>
+	<sys/stat.h>
+	"ext2_fs.h"
+
+1461511982 /home/luke/Classes/CptS 360/Final/util/util.h
+	"../project.h"
+
+1461434223 /home/luke/Classes/CptS 360/Final/util/util.c
+	"../project.h"
+
+1461371417 source:/home/luke/Classes/CptS 360/Final/level1/ls.c
+	"../project.h"
+
+1461371430 source:/home/luke/Classes/CptS 360/Final/level1/mkdir.c
+	"../project.h"
+
+1461426419 source:/home/luke/Classes/CptS 360/Final/level1/pwd.c
+	"../project.h"
+
+1461427318 source:/home/luke/Classes/CptS 360/Final/level1/touch.c
+	"../project.h"
+
+1461432172 source:/home/luke/Classes/CptS 360/Final/main.c
+	"project.h"
+
+1460996321 source:/home/luke/Classes/CptS 360/Final/util/alloc_dealloc.c
+	"../project.h"
+
+1461434223 source:/home/luke/Classes/CptS 360/Final/util/util.c
+	"../project.h"
+
+1460996321 /home/luke/Classes/CptS 360/Final/util/alloc_dealloc.c
+	"../project.h"
+
+1461511903 /home/luke/Classes/CptS 360/Final/level1/level1.h
+	"../project.h"
+
+1461372217 source:/home/luke/Classes/CptS 360/Final/level1/chmod.c
+	"../project.h"
+
+1461364437 source:/home/luke/Classes/CptS 360/Final/level1/chown.c
+	"../project.h"
+
+1461428165 source:/home/luke/Classes/CptS 360/Final/level1/creat.c
+	"../project.h"
+
+1461430573 source:/home/luke/Classes/CptS 360/Final/level1/link.c
+	"../project.h"
+
+1461108522 source:/home/luke/Classes/CptS 360/Final/level1/menu.c
+
+1461511926 source:/home/luke/Classes/CptS 360/Final/level1/rm.c
+	"../project.h"
+
+1461371457 source:/home/luke/Classes/CptS 360/Final/level1/rmdir.c
+	"../project.h"
+
+1461371814 source:/home/luke/Classes/CptS 360/Final/level1/stat.c
+	"../project.h"
+
+1461434419 source:/home/luke/Classes/CptS 360/Final/level1/symlink.c
+	"../project.h"
+
+1461435006 source:/home/luke/Classes/CptS 360/Final/level1/unlink.c
+	"../project.h"
+
+1461364452 source:/home/luke/Classes/CptS 360/Final/level2/open.c
+	"../project.h"
+
